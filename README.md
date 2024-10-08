@@ -1,4 +1,4 @@
-# Repro reproducing https://github.com/titzer/wizard-engine/issues/204
+# Repo reproducing https://github.com/titzer/wizard-engine/issues/204
 
 ## Prerequisites
 - X86-64 Linux machine
